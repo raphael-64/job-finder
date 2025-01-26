@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Research Engineer",
+        "location": "San Francisco",
+        "description": "As a Research Engineer, you will work on cutting-edge AI research and development projects, collaborating with scientists and engineers to build innovative solutions.",
+        "requirements": "Strong programming skills, experience in machine learning, and a background in research."
+    },
+    {
+        "title": "Research Scientist",
+        "location": "San Francisco",
+        "description": "The Research Scientist will conduct advanced research in AI, contributing to the development of new algorithms and models that push the boundaries of technology.",
+        "requirements": "PhD in a relevant field, expertise in machine learning, and a strong publication record."
+    },
+    {
+        "title": "Software Engineer, Agent Infrastructure",
+        "location": "San Francisco",
+        "description": "This role involves building and maintaining the infrastructure that supports AI agents, ensuring they operate efficiently and effectively.",
+        "requirements": "Proficiency in software development, experience with distributed systems, and knowledge of AI technologies."
+    },
+    {
+        "title": "Research Scientist",
+        "location": "San Francisco",
+        "description": "As a Research Scientist here, you will develop innovative machine learning techniques and advance the research agenda of the team you work on, while also collaborating with peers across the organization. We are looking for people who want to discover simple, generalizable ideas that work well even at large scale, and form part of a broader research vision that unifies the entire company.",
+        "requirements": "Have a track record of coming up with new ideas or improving upon existing ideas in machine learning, demonstrated by accomplishments such as first author publications or projects. Possess the ability to own and pursue a research agenda, including choosing impactful research problems and autonomously carrying out long-running projects. Be excited about OpenAI’s approach to research. Nice to have: Interested in and thoughtful about the impacts of AI technology. Past experience in creating high-performance implementations of deep learning algorithms."
+    },
+    {
+        "title": "Customer Support Engineer",
+        "location": "San Francisco, CA",
+        "description": "The User Operations team is central to ensuring that our customers' experience with our products is nothing short of exceptional. We resolve complex issues, provide technical guidance, and support customers in maximizing value and adoption from deploying our products. In this role, you will be interacting directly with our customers through support tickets and Slack messages, troubleshooting complex issues to define the undefined, and setting a positive precedent for the rest of the team to follow.",
+        "requirements": "5+ years of experience in user operations, technical support, or support engineering roles, ideally in tech startups or fast-paced environments. Excellent problem-solving skills and the ability to comprehend and communicate complex technical issues. Proven experience building strong relationships with customers and cross-functionally to drive resolution to complex issues. A humble attitude, an eagerness to help others, and a desire to pick up whatever knowledge you're missing to make both your team and our customers succeed."
+    },
+    {
+        "title": "Analytics Data Engineer, Applied Engineering",
+        "location": "San Francisco",
+        "description": "We're seeking a Data Engineer to take the lead in building our data pipelines and core tables for OpenAI. These pipelines are crucial for powering analyses, safety systems that guide business decisions, product growth, and prevent bad actors. If you're passionate about working with data and are eager to create solutions with significant impact, we'd love to hear from you. This role also provides the opportunity to collaborate closely with the researchers behind ChatGPT and help them train new models to deliver to users.",
+        "requirements": "Have 3+ years of experience as a data engineer and 8+ years of any software engineering experience (including data engineering). Proficiency in at least one programming language commonly used within Data Engineering, such as Python, Scala, or Java. Experience with distributed processing technologies and frameworks, such as Hadoop, Flink and distributed storage systems (e.g., HDFS, S3). Expertise with any of ETL schedulers such as Airflow, Dagster, Prefect or similar frameworks. Solid understanding of Spark and ability to write, debug and optimize Spark code."
+    },
+    {
+        "title": "Software Engineer, Model Inference",
+        "location": "San Francisco",
+        "description": "We're looking for an engineer to join our team at OpenAI to help us scale up our critical inference infrastructure, which efficiently services every customer request to use our state-of-the-art AI models, including GPT-4 and Dall-E. In this role, you will work alongside machine learning researchers, engineers, and product managers to bring our latest technologies into production, introduce new techniques, tools, and architecture that improve performance, latency, throughput, and efficiency of our deployed models, build tools to give visibility into bottlenecks and sources of instability, and optimize our code and fleet of Azure VMs.",
+        "requirements": "Have an understanding of modern ML architectures and an intuition for how to optimize their performance, particularly for inference. Own problems end-to-end, and are willing to pick up whatever knowledge you're missing to get the job done. Have at least 3 years of professional software engineering experience. Are an expert in core HPC technologies: InfiniBand, MPI, CUDA. Understand how to overlap compute and communication to maximize utilization of scarce compute, memory, and bandwidth resources. Have experience architecting, observing, and debugging production distributed systems. Have a humble attitude, an eagerness to help your colleagues, and a desire to do whatever it takes to make the team succeed. Have needed to rebuild or substantially refactor production systems several times over due to rapidly increasing scale. Are self-directed and enjoy figuring out the most important problem to work on. Have a good intuition for when off-the-shelf solutions will work, and build tools to accelerate your own workflow quickly if they won’t."
+    },
+    {
+        "title": "Forward Deployed Engineer",
+        "location": "New York City",
+        "description": "As a Forward Deployed Engineer, you will embed with customers to understand their business challenges and technical requirements, design and develop full-stack solutions, and collaborate with various teams to ensure project success and customer satisfaction.",
+        "requirements": "4+ years of experience in software or customer engineering roles, proficiency in front-end development (React or Next.js) and back-end development (Python, Node.js), familiarity with cloud platforms (AWS, GCP, Azure), effective communication skills, willingness to travel up to 50%, and a bias for action."
+    },
+    {
+        "title": "Product Quality Engineer",
+        "location": "San Francisco",
+        "description": "We’re looking for a product quality engineer, who will be responsible for driving technical initiatives related to the quality and reliability of our AI supercomputer hardware systems to ensure product success from concept to launch and through mass production. You’ll have the opportunity to work with a wide range of stakeholders, from design engineering and operations teams, TPMs, external industry vendors and partners to ensure that all products are developed and delivered on time and to the highest quality standards.",
+        "requirements": "Have an impressive track record of leading complex projects from concept to production launch and have the ability to work with cross-functional teams to ensure successful execution of programs. Are a creative, detail-oriented, and self-motivated individual looking for an exciting opportunity in the tech industry, this could be the perfect role for you. Stay up to date on industry trends and product quality engineering of high-performance computing systems. Like being a close partner with cross-functional teams to understand key design changes requiring validation to accurately integrate engineering validation needs into the overall system build. Have experience driving development timelines for new platform introduction and managing internal review processes. Have significant experience driving creativity, quality, and schedule at multinational JDM/CM vendors. Are deeply familiar with mechanical and electrical Design For Quality (DFQ), Excellence (DFX), Manufacturability (DFM), Test (DFT), and Design for Reliability (DFR), etc. Are excited by capturing, analyzing, and presenting key quality metrics data. Are keen on corrective actions. Are comfortable with ambiguity and rapidly changing conditions."
+    },
+    {
+        "title": "Supercomputing, Software Engineer - Storage",
+        "location": "San Francisco",
+        "description": "As an engineer on the Storage Infrastructure team, you will design, build, and operate Exascale systems to scalably and reliably manage our research data across multiple regions. You will develop software to manage exascale data, drive the reliability, predictability, and cost effectiveness of our storage systems, interface with researchers to understand and accommodate data use-cases, and ensure the security of our critical datasets.",
+        "requirements": "You might thrive in this role if you have a deep understanding of distributed systems principles and a proven track record in designing and building scalable, reliable, and secure storage solutions, possess strong programming skills, have experience working in public clouds (especially Azure), are familiar with AI/ML data access patterns, and have a bias for action and comfort building in a fast paced, dynamic environment."
+    }
+]

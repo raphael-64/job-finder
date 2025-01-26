@@ -4,7 +4,7 @@ from pydantic import BaseModel
 from typing import List
 
 # Initialize the FirecrawlApp with your API key
-app = FirecrawlApp(api_key='fc-29c5672640124719b3161588cff69dfb')
+app = FirecrawlApp(api_key='INSERT YOUR API KEY')
 
 # Define the schema for extracted job data
 class Job(BaseModel):
